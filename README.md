@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 | Speaker Deck | [harukin721](https://speakerdeck.com/harukin721/) |
 | Twitter | [@harukin721](https://twitter.com/harukin721/) |
 | Qiita | [@harukin721](https://qiita.com/harukin721/) ( Contributions数 430超 ) |
-| 資格 | 2022年12月 : Linux Professional Institute LPIC-2<br/>2021年06月 : AWS Certified SysOps Administrator - Associate<br/>2021年04月 : AWS Certified Developer - Associate<br/>2021年03月 : AWS Certified Solutions Architect - Associate<br/>2020年12月 : Linux Professional Institute LPIC-1<br/>2020年10月 : AWS Certified Cloud Practitioner<br/>2020年03月 : ITパスポート<br/>2018年03月 : 日商簿記 3級|
+| 資格 | 2023/09 : 情報セキュリティマネジメント試験<br/>2022/12 : Linux Professional Institute LPIC-2<br/>2021/06 : AWS Certified SysOps Administrator - Associate<br/>2021/04 : AWS Certified Developer - Associate<br/>2021/03 : AWS Certified Solutions Architect - Associate<br/>2020/12 : Linux Professional Institute LPIC-1<br/>2020/10 : AWS Certified Cloud Practitioner<br/>2020/03 : ITパスポート<br/>2018/03 : 日商簿記 3級|
+
