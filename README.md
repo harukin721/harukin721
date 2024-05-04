@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 |2020|10|AWS Certified Cloud Practitioner|
 |2020|03|ITパスポート試験|
 |2018|03|日本商工会議所簿記検定 3級|
+
+## 業務経歴書
+
+[harukin721/curriculum_vitae](https://github.com/harukin721/curriculum_vitae)
