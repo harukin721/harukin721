@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **harukin721/harukin721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| Key | Value |
-| ---- | ---- |
-| Wantedly | [Haruki Uejima](https://www.wantedly.com/id/harukin721/) |
-| Hatena Blog | [harukin’s blog](https://harukin721.hatenablog.com/) |
-| Speaker Deck | [harukin721](https://speakerdeck.com/harukin721/) |
-| Twitter | [@harukin721](https://twitter.com/harukin721/) |
-| Qiita | [@harukin721](https://qiita.com/harukin721/) ( Contributions数 430超 ) |
-| 資格 | 2023/09 : 情報セキュリティマネジメント試験<br/>2022/12 : Linux Professional Institute LPIC-2<br/>2021/06 : AWS Certified SysOps Administrator - Associate<br/>2021/04 : AWS Certified Developer - Associate<br/>2021/03 : AWS Certified Solutions Architect - Associate<br/>2020/12 : Linux Professional Institute LPIC-1<br/>2020/10 : AWS Certified Cloud Practitioner<br/>2020/03 : ITパスポート<br/>2018/03 : 日商簿記 3級|
+## 基本情報
 
+|key|value|
+|----|----|
+|名前|[上島 春輝](https://www.wantedly.com/id/harukin721/)|
+|Hatena Blog|[harukin’s blog](https://harukin721.hatenablog.com/)|
+|Speaker Deck|[harukin721](https://speakerdeck.com/harukin721/)|
+|Twitter| [@harukin721](https://twitter.com/harukin721/)|
+|Qiita|[@harukin721](https://qiita.com/harukin721/)|
+
+## 保有資格
+
+|年|月|資格名|
+|----|----|----|
+|2023|09|情報セキュリティマネジメント試験|
+|2022|12|Linux Professional Institute LPIC-2|
+|2021|06|AWS Certified SysOps Administrator - Associate|
+|2021|04|AWS Certified Developer - Associate|
+|2021|03|AWS Certified Solutions Architect - Associate|
+|2020|12|AWS Linux Professional Institute LPIC-1|
+|2020|10|AWS Certified Cloud Practitioner|
+|2020|03|ITパスポート試験|
+|2018|03|日本商工会議所簿記検定 3級|
