@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 ## 業務経歴書
 
 [harukin721/curriculum_vitae](https://github.com/harukin721/curriculum_vitae)
+
+## github.io
+
+[harukin721.github.io](https://harukin721.github.io)
