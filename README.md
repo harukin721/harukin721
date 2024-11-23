@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |2021|06|AWS Certified SysOps Administrator - Associate|
 |2021|04|AWS Certified Developer - Associate|
 |2021|03|AWS Certified Solutions Architect - Associate|
-|2020|12|AWS Linux Professional Institute LPIC-1|
+|2020|12|Linux Professional Institute LPIC-1|
 |2020|10|AWS Certified Cloud Practitioner|
 |2020|03|ITパスポート試験|
 |2018|03|日本商工会議所簿記検定 3級|
