@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 |年|月|資格名|
 |----|----|----|
+|2025|04|AWS Certified AI Practitioner|
 |2024|06|基本情報技術者試験|
 |2023|09|情報セキュリティマネジメント試験|
 |2022|12|Linux Professional Institute LPIC-2|
