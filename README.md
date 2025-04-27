@@ -25,22 +25,6 @@ Here are some ideas to get you started:
 |Twitter| [@harukin721](https://twitter.com/harukin721/)|
 |Qiita|[@harukin721](https://qiita.com/harukin721/)|
 
-## 保有資格
-
-|年|月|資格名|
-|----|----|----|
-|2025|04|AWS Certified AI Practitioner|
-|2024|06|基本情報技術者試験|
-|2023|09|情報セキュリティマネジメント試験|
-|2022|12|Linux Professional Institute LPIC-2|
-|2021|06|AWS Certified SysOps Administrator - Associate|
-|2021|04|AWS Certified Developer - Associate|
-|2021|03|AWS Certified Solutions Architect - Associate|
-|2020|12|Linux Professional Institute LPIC-1|
-|2020|10|AWS Certified Cloud Practitioner|
-|2020|03|ITパスポート試験|
-|2018|03|日本商工会議所簿記検定 3級|
-
 ## 業務経歴書
 
 [harukin721/curriculum_vitae](https://github.com/harukin721/curriculum_vitae)
